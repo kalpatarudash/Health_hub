@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mini-docbot-pndi",
+  "private_key_id": "aaeafcbdf2a28529c62f0ac36f9d97dd181455ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/P2BfstiRaioD\nvEB4DqFaQ4XKNldJZXzkHlE0WC38NwIBuUOIRK1cfe8foFmzkMip9TyS91eMDVGX\n+ws9rZBICeGdZ5xn0obD7FUfj2KwHtNIo0c8zsRANPdrtIDJjHTfE1E5ZxZsJthq\nf3ooFs/YyxMTvSvLBIZ2TvKztaYP6TQ/6aWXnT2iagv5E87M+CeTLKiWA+ExDa3C\nBjnnpRw29vjlJjyCq+4w1rRdwyeUPiIhQNlAWXtiyLUyquV4RJdY9WJgH3bauIGu\n0YhvFkZiF5Ft3LzeacRps6yHNvEmYZ5UHuuriq1lJcGKW15gMEZMZNUMpEc1/FE6\n0lNPH5VFAgMBAAECggEAC+juxjbojSTvFeMQ1SLJtWNtsjowTslSF3caq03vtMlZ\nYVfmVtbUDWXOt1aW9eHgpTjsLnwJyMm0vzUdx5fTjuQfcUJ+qoNUhWBmReKTjKoQ\nXvGQIgv/i77grT8evOGq25BXGnu+TG24ERwvZ5seeX7eb5HBAVHrhic3e3qNK2gv\nIynwg/QaRRM+n/n1wBJV1a0Hjm0X6vsMCZ/4KUpI+MwIaWlFlHyj+lFdgaM6UA86\nUvCf19rkeaYx47jOdHIezalK9Nhda9f6KoS8bbM/5aLETogUu8scqcPjaNQ5BmP8\nA8pQPn19QxnLuONocYjclPcITZg0Ib0IVtIZ0zu7pwKBgQDtvQ+FuuRKzvGHBk9a\nJ8j3UhHeB6JcnOvUMfH//RyiKd3WNsWSAZHvTiWkt0Vi3TAkU2DNF2RPu2/dkUGq\njALwyLmwyDnFRuJ981F52ALhWU9q+qMLpMFtUv0/1vSTSkLXwty2c6bElKEVo4fP\nqDRg3qduDygO0EITrXhGid8GEwKBgQDN8BusasTDtVYz0X4gZ0gle9SErUnq/da6\np1StWglhFnNAiRnhnGRW9EVSraCT5AA8obazPf5TlPbU9rE/DziSPEAyPxb1xyhk\nD0T8XcCt4lidsmi9AbD+IiaCeMuxkM/V9JnTkVC79d4PQl2TagQuYFWoL1ntRNSW\nHd4vCPxCRwKBgA3ePHyRlWWjwsUcoh5hOcDroa0xBtCeOseLDlHfgv8WsCEh2s6U\nlt290kZUhpCo1HkaAAiWt7xK89CZ+5mmRzmii+p7E5ulcerk+bjA2BIrMo3MBxzT\nxJDLCYji0iuRZmrNrDBceLr47JiljHOZnUyVUHEEI1MR5Pje4qhCvKbPAoGAbIkb\nTKeIxEyR/gVvH8zPLVIyEyrxRjQ6M211J1fIka6vV1fqmAlAqMNctdJkSw1jQpFI\nJPeLTqm33U2W5NE0032Fp/WwOCCanQGfLhKLNhmQ8qvQn6yAh6+f9CuNzyuvHego\nGmT/09AlFI25m7PIOFj1TAqIrpAUKnnbW5a0vIkCgYAu7598TkdrWv35G60PEFnI\nt7bJ/yycxK3YSrVLSBDMCfGMEoDUAzWdU8MoYUpwssQg01O/g/h27QXnGIpdGFjg\nODeXaMIAHX/DRH9vOfpxS4MC+iwkdiQlS9fCVA5OrsKRpxuDrhkfxzUzemzc8bUT\nx1YF6E62rqI8BB2MiPM6MA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mini-docbot@mini-docbot-pndi.iam.gserviceaccount.com",
+  "client_id": "104482475803731846977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mini-docbot%40mini-docbot-pndi.iam.gserviceaccount.com"
+}
