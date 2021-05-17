@@ -1,0 +1,2 @@
+# Health_hub
+It is multifunctional healthcare service provider. It has 3 things the first being a chatbot that helps you to connect you to a doctor immediately, and the second is a disease predictor that predicts the disease based on symptoms. And the third is a smart contract using Etherium blockchain network for user to store their data and data can be given access to any doctor in any part of the world by the user him/herself, or even to an analyst to improve their ML models.
