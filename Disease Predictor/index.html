@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Disease Prediction</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="./static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="./static/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+
+<body>
+  <nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper container">
+      <ul class="right hide-on-med-and-down">
+        <li><a href="#">@Lokesh</a></li>
+      </ul>
+    </div>
+  </nav>
+
+
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h1 class="header center orange-text">Let Health_Hub find the best result for you </h1>
+      <div class="row center">
+        <h5 class="header col s12 light">Predict the Possibility of a disease by entering all symptoms
+        <br>
+        </h5>
+      </div>
+
+      <div class="row">
+    <form action='/predict' method="post" class="col s12">
+      <div class="row">
+        <div class="input-field col s4">
+            <label for="s1"><b>Symptom-1</b></label>
+            <br>
+          <input id="s1" name="Symptom1" placeholder="Fever"  type="text" class="validate">
+        </div>
+        <div class="input-field col s4">
+
+          <label for="s2"><b> Symptom-2</b></label>
+            <br>
+          <input id="s2" name="Symptom2" placeholder="Itching"  type="text" class="validate">
+        </div>
+
+        <div class="input-field col s4">
+            <label for="s3"><b>Symptom-3</b></label>
+            <br>
+          <input id="s3" name="Symptom3" placeholder="Dizziness" type="text" class="validate">
+        </div>
+      </div>
+
+      <div class="row center">
+          <button type="submit" class="btn-large waves-effect waves-light orange">Predict</button>
+      </div>
+    </form>
+      </div>
+
+      <br>
+        {{pred}}
+      <br>
+
+    </div>
+  </div>
+    <br><br>
+  </div>
+  </div>>
+
+  <footer class="page-footer orange">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">About</h5>
+          <p class="grey-text text-lighten-4">Just another team of kids trying to make sense of this world through the lens of Ml and hopefully leave it better than she received it.</p>
+
+        </div>
+        <div class="col l3 s12">
+          </div>
+        <div class="col l3 s12">
+          <h5 class="white-text">Connect with me</h5>
+          <ul>
+            <li><a class="white-text" href="https://www.hackerrank.com/4man_mishra?hr_r=1">HackerRank</a></li>
+            <li><a class="white-text" href="https://github.com/MishraLokesh">GitHub</a></li>
+            <li><a class="white-text" href="https://www.linkedin.com/in/lokesh-mishra-0807/">Linkedin</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+      Made with <a class="orange-text text-lighten-3" href="https://github.com/MishraLokesh/client_VIThack">love</a>
+      </div>
+    </div>
+  </footer>
+
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="./static/js/materialize.js"></script>
+  <script src="./static/js/init.js"></script>
+
+  </body>
+</html>
